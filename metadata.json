@@ -1,0 +1,7 @@
+{
+  "name": "FitCheck - AI Virtual Try-On",
+  "description": "Visualize your style instantly. Upload a photo of yourself and a garment to generate a virtual try-on using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
